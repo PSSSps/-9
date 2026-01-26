@@ -17,7 +17,7 @@ import random
 os.system('clear')
 colors = [Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN]
 color = random.choice(colors)
-print(f"{color} THIS {color}ENCODE {color}BY {color}DEVIL {color}| @{color}NasrPy" + Style.RESET_ALL)
+print(f"{color}  {color}{color}BY {color}PS {color}| @{color}p7s7s" + Style.RESET_ALL)
 time.sleep(4)
 # Done decode Hassani  : By - @𝗽𝟳𝘀𝟳𝘀:  
 
